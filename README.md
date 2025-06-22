@@ -1,2 +1,2 @@
 # Sentiment-analysis-of-youtube-comments-using-python
-Contains a python code that helps in sentiment analysis for youtube comments
+This Jupyter Notebook Python code helps to set, default sentiments and we can also use it for sentiment percentage calculation.
